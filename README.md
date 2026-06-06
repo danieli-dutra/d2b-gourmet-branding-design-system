@@ -135,3 +135,11 @@ Projeto desenvolvido por **Danieli Dutra** como projeto acadêmico de **Branding
 
 > Recomenda-se visualizar o PDF do manual para acessar todas as aplicações, diretrizes e documentação visual do projeto.
 
+---
+
+## 📄 Uso e Direitos
+
+Este projeto está disponível exclusivamente para fins de **portfólio e demonstração profissional**.
+
+O conteúdo visual e documental está protegido por direitos autorais e não pode ser reutilizado, modificado ou redistribuído sem autorização.
+
